@@ -1,0 +1,56 @@
+{
+  "folder_name": "cookiecutter_folder",
+
+  "gitworkflow_folder_name": "cookiecutter_folder",
+  "gitworkflow_folder_name": "cookiecutter_folder",
+  "workflow_file_name": "cookiecutter_file",
+
+  "cli_folder_name": "cookiecutter_folder",
+  "cli_subfolder_branch_setup": "cookiecutter_folder",
+  "cli_branch_rules_file": "cookiecutter_file",
+  "cli_branches_file": "cookiecutter_file",
+  "cli_subfolder_user_management": "cookiecutter_folder",
+  "cli_manage_access_file": "cookiecutter_file",
+
+  "configs_folder_name": "cookiecutter_folder",
+  "configs_env_file": "cookiecutter_file",
+  "configs_repo_config_file": "cookiecutter_file",
+  "configs_secrets_template_file": "cookiecutter_file",
+  "configs_teams_file": "cookiecutter_file",
+
+  "databricks_jobs_folder": "cookiecutter_folder",
+  "databricks_train_deploy_file": "cookiecutter_file",
+
+  "requirements_folder": "cookiecutter_folder",
+  "requirements_base_file": "cookiecutter_file",
+  "requirements_dev_file": "cookiecutter_file",
+  "requirements_prod_file": "cookiecutter_file",
+  "requirements_qa_file": "cookiecutter_file",
+
+  "src_folder": "cookiecutter_folder",
+  "models_folder": "cookiecutter_folder",
+  "model_name": "cookiecutter_folder",
+
+  "adls_folder": "cookiecutter_folder",
+  "adls_mount_file": "cookiecutter_file",
+
+  "subfolder_training": "cookiecutter_folder",
+  "train_register_file": "cookiecutter_file",
+  "train_model_file": "cookiecutter_file",
+
+  "subfolder_inference": "cookiecutter_folder",
+  "inference_batch_subfolder": "cookiecutter_folder",
+  "in": "cookiecutter_file",
+  "batch_deploy_file": "cookiecutter_file",
+  "inference_online_subfolder}": "cookiecutter_folder",
+  "n": "cookiecutter_file",
+
+  "subfolder_dashboard": "cookiecutter_folder",
+  "dashboard_file": "cookiecutter_file",
+
+  "databrickscfg_file": "cookiecutter_file",
+  "gitignore_file": "cookiecutter_file",
+  "pre_commit_config_file": "cookiecutter_file",
+  "readme_file": "cookiecutter_file",
+  "databricks_yml_file": "cookiecutter_file"
+}
